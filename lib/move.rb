@@ -12,3 +12,4 @@ end
 
 def move (board, user_input, player = "X")
   board[user_input] = player
+end
